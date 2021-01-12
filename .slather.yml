@@ -1,0 +1,6 @@
+coverage_service: cobertura_xml
+xcodeproj: ReAnimation.xcodeproj
+scheme: ReAnimation
+output_directory: reports
+ignore:
+  - ReAnimationTests/*

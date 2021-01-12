@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/cocoapods/v/ReAnimation.svg?style=flat)](https://cocoapods.org/pods/ReAnimation)
 [![License](https://img.shields.io/cocoapods/l/ReAnimation.svg?style=flat)](https://cocoapods.org/pods/ReAnimation)
 [![Platform](https://img.shields.io/cocoapods/p/ReAnimation.svg?style=flat)](https://cocoapods.org/pods/ReAnimation)
+[![codecov](https://img.shields.io/codecov/c/github/bartosy-ymija/ReAnimation?token=2NMA7NN4BI)](https://codecov.io/gh/bartosy-ymija/ReAnimation)
+
 
 ## Usage
 
